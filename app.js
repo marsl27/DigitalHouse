@@ -2,5 +2,5 @@ function hola() {
     return true;
 }
 
-console.log("hola");
+console.log("Hola Mundo");
 
