@@ -1,4 +1,4 @@
 function hola() {
     return true;
 }
-console.log();
+console.log("hola");
